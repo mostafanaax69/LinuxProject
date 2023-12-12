@@ -34,7 +34,7 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 
 ### Task 2: Terminal Basics
 - Familiarized myself with the Ubuntu Terminal.
-- Executed basic commands: `ls`, `cd`, `pwd`, `mkdir`, `touch`, and 10 additional commands of my choice : [Can be found in this Folder](Module1/task2.md)
+- Executed basic commands: `ls`, `cd`, `pwd`, `mkdir`, `touch`, and 10 additional commands of my choice : [Can be found in this here](Module1/task2.md)
 
 ## Module 2: File Operations and Navigation
 
@@ -42,13 +42,13 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 - Created, moved, copied, and deleted files and directories.
 - Used wildcards (`*`, `?`) for efficient file operations.
 - Showcased the use of `cp`, `mv`, and `rm` commands.
-- [Extended explantion and showcase of this task)(Module2/task3.md)
+- [Extended explantion and showcase of this task](Module2/task3.md)
 
 
 ### Task 4 : Working with Text Files
 - Used `cat`, `nano`, or `vim` to view and edit text files.
 - Demonstrated appending and replacing content in a file.
-- [Extended explantion and showcase of this task)(Module2/task4.md)
+- [Extended explantion and showcase of this task](Module2/task4.md)
 
 
 ## Module 3: User Management and Permissions
