@@ -38,14 +38,14 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 
 ## Module 2: File Operations and Navigation
 
-### Task 3 : File Manipulation
+### Task 3: File Manipulation
 - Created, moved, copied, and deleted files and directories.
 - Used wildcards (`*`, `?`) for efficient file operations.
 - Showcased the use of `cp`, `mv`, and `rm` commands.
 - [Extended explantion and showcase of this task](Module2/task3.md)
 
 
-### Task 4 : Working with Text Files
+### Task 4: Working with Text Files
 - Used `cat`, `nano`, or `vim` to view and edit text files.
 - Demonstrated appending and replacing content in a file.
 - [Extended explantion and showcase of this task](Module2/task4.md)
