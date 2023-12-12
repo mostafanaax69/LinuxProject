@@ -28,7 +28,12 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
   - [Task 13: Project Documentation](#task-13-project-documentation)
 
 ## Module 1: Ubuntu Setup and Basic Command
+
+### Task 1:  Ubuntu Installation
 - Installed the latest LTS version of Ubuntu on a virtual machine USING a software called Parraler whichi is a virtual machines host software for MAC.
+
+### Task 2: Terminal Basics
+- 
 
 ## Module 2: File Operations and Navigation
 - Familiarized myself with the Ubuntu Terminal.
