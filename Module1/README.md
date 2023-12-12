@@ -6,3 +6,6 @@
   - [Task 2: Terminal Basics](module1/task2.md)
  
  
+
+### Task 1:  Ubuntu Installation
+- Installed the latest LTS version of Ubuntu on a virtual machine USING a software called Parraler whichi is a virtual machines host software for MAC.
