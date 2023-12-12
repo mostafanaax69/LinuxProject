@@ -12,4 +12,4 @@
  - Copied the new created file into another file
  - Copied a file into the new directory
  - I have used the ls command to list the directory files and the more command to show the text file content
- - All can be seen in the following [Screenshots](Screenshots/Commands,png)
+ - All can be seen in the following [Screenshots](Screenshots/Commands.png)
