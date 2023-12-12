@@ -25,6 +25,8 @@
  rm : used to remove objects such as files, directories, symbolic links ( rm file1.txt would delete that file ) 
  mv : 1) Renaming a file or directory , 2) Moving a file or directory to another location
  grep : filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. grep [options] pattern [files]
- ps :  viewing information related with the processes on a system which stands as abbreviation for “Process Status”. ps command is used to list the currently running processes and their PIDs along with some other information depends on different options. 
+ ps :  viewing information related with the processes on a system which stands as abbreviation for “Process Status”. ps command is used to list the currently running processes and their PIDs along with some other information depends on different options.
+
+ Vim:  an advanced and highly configurable text editor built to enable efficient text editing.
  
  
