@@ -57,10 +57,12 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 - Created a new user account and set a password.
 - Switched between users using `su` and `sudo`.
 - Provided screenshots of user creation and switching.
+- [Extended explantion and showcase of this task](./task5.md)
 
 ### Task 6: File Permissions
 - Understood and modified file permissions using `chmod`.
 - Explored the concepts of user, group, and others.
+- [Extended explantion and showcase of this task](./task6.md)
 
 ## Module 4: Process Management
 ...
