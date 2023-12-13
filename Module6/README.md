@@ -1,6 +1,6 @@
 # LinuxProject
 
-## Table of Contents of Module3
+## Table of Contents of Module6
 - [Module 6: Basic Shell Scripting](#module-6-basic-shell-scripting)
   - [Task 11: Write a Shell Script](#task-11-write-a-shell-script)
  
