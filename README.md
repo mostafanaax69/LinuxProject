@@ -65,7 +65,18 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 - [Extended explantion and showcase of this task](./task6.md)
 
 ## Module 4: Process Management
-...
+
+### Task 7: Process Monitoring
+- Monitored system processes using `ps` , `top`
+- Identifed resource-intensive processes and terminated them using `kill`.
+- [Extended explantion and showcase of this task](./task7.md)
+
+### Task 8: Background and Foreground Processes
+- Ran a process in the background
+- Moved a process to the foreground.
+- Ultlized relevant commands
+- [Extended explantion and showcase of this task](./task8.md)
+
 
 ## Module 5: Package Management
 ...
