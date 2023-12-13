@@ -8,7 +8,7 @@
 
 
 
-### Task 11: Report System Health Check and Performance Monitoring Bash [Script](./Sys_HealthCeheck_Monitor)
+### Task : Report System Health Check and Performance Monitoring Bash [Script](./Sys_HealthCeheck_Monitor)
 - Checked essential services (SSH, HTTP, HTTPS, and MySQL database services) and reported their status.
 - Monitored disk usage, identified partitions with usage over a set threshold (e.g., 80%).
 - Checked for read-only file systems.
