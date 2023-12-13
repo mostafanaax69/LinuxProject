@@ -85,4 +85,5 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 
 ### Exercise: Report System Health Check and Performance Monitoring Bash Script
 - [Extended explantion and showcase of this task](Module7)
-- Created
+- A Bash script that performs a system health check and performance monitoring.
+
