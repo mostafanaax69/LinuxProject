@@ -1,22 +1,22 @@
 # LinuxProject
 
-## Table of Contents of Module3
-- [Module 3: User Management and Permissions](#module-3-user-management-and-permissions)
-  - [Task 5: User Accounts](#task-5-user-accounts)
-  - [Task 6: File Permissions](#task-6-file-permissions)
+## Table of Contents of Module4
+- [Module 4: Process Management](#module-4-process-management)
+  - [Task 7: Process Monitoring](#task-7-process-monitoring)
+  - [Task 8: Background and Foreground Processes](#task-8-background-and-foreground-processes)
  
 
 
-### Task 5: User Accounts
-- Created a new user account and set a password.
-- Switched between users using `su` and `sudo`.
-- Provided screenshots of user creation and switching.
-- [Extended explantion and showcase of this task](./task5.md)
+### Task 7: Process Monitoring
+- Monitored system processes using `ps` , `top`
+- Identifed resource-intensive processes and terminated them using `kill`.
+- [Extended explantion and showcase of this task](./task7.md)
 
-### Task 6: File Permissions
-- Understood and modified file permissions using `chmod`.
-- Explored the concepts of user, group, and others.
-- [Extended explantion and showcase of this task](./task6.md)
+### Task 8: Background and Foreground Processes
+- Ran a process in the background
+- Moved a process to the foreground.
+- Ultlized relevant commands
+- [Extended explantion and showcase of this task](./task8.md)
 
  
 
