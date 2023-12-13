@@ -9,7 +9,7 @@
 - Permissions can be seen in this weird looking code (highlighted ‘-rw-rw-r–‘ in the screenshot down) , this code tells us about the Unix permissions given to the owner, user group and the world.
 - r = read permission , w = write permission ,  x = execute permission , – = no permission
 - ![Screenshot](../Screenshots/newFile.png)
-- ![Screenshot](../Screenshots/permissions.png)
+- ![Screenshot](../Screenshots/permission.webp)
 
 #### In the following screenshot it is demonstrated how I have :
 - Created a new file using `cat` command
