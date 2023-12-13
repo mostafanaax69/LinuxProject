@@ -78,11 +78,14 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 - [Extended explantion and showcase of this task](Module4/task8.md)
 
 
-## Module 5: Package Management
-...
 
 ## Module 6: Basic Shell Scripting
-...
+
+### Task 11: A Shell Script
+- Created a shell script that automates a repetitive task which is a file backup
+- [Extended explantion and showcase of this task](Module6)
+
+
 
 ## Module 7: Final Exercise
 
