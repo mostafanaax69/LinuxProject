@@ -16,16 +16,10 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 - [Module 4: Process Management](#module-4-process-management)
   - [Task 7: Process Monitoring](#task-7-process-monitoring)
   - [Task 8: Background and Foreground Processes](#task-8-background-and-foreground-processes)
-- [Module 5: Package Management](#module-5-package-management)
-  - [Task 9: Package Installation](#task-9-package-installation)
-  - [Task 10: System Updates](#task-10-system-updates)
 - [Module 6: Basic Shell Scripting](#module-6-basic-shell-scripting)
   - [Task 11: Write a Shell Script](#task-11-write-a-shell-script)
-  - [Task 12: Execute and Document the Shell Script](#task-12-execute-and-document-the-shell-script)
 - [Module 7: Final Exercise](#module-7-final-exercise)
   - [Exercise: Report System Health Check and Performance Monitoring Bash Script](#exercise-report-system-health-check-and-performance-monitoring-bash-script)
-- [Submission](#submission)
-  - [Task 13: Project Documentation](#task-13-project-documentation)
 
 ## Module 1: Ubuntu Setup and Basic Command
 
