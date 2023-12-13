@@ -75,7 +75,7 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 
 ## Module 6: Basic Shell Scripting
 
-### Task 11: A Shell Script
+### Task 11: Write a Shell Script
 - Created a shell script that automates a repetitive task which is a file backup
 - [Extended explantion and showcase of this task](Module6)
 
