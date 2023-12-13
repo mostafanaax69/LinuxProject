@@ -57,25 +57,25 @@ This repository contains the solutions and documentation for Modules 1 to 7, cov
 - Created a new user account and set a password.
 - Switched between users using `su` and `sudo`.
 - Provided screenshots of user creation and switching.
-- [Extended explantion and showcase of this task](./task5.md)
+- [Extended explantion and showcase of this task](Module3/task5.md)
 
 ### Task 6: File Permissions
 - Understood and modified file permissions using `chmod`.
 - Explored the concepts of user, group, and others.
-- [Extended explantion and showcase of this task](./task6.md)
+- [Extended explantion and showcase of this task](Module3/task6.md)
 
 ## Module 4: Process Management
 
 ### Task 7: Process Monitoring
 - Monitored system processes using `ps` , `top`
 - Identifed resource-intensive processes and terminated them using `kill`.
-- [Extended explantion and showcase of this task](./task7.md)
+- [Extended explantion and showcase of this task](Module4/task7.md)
 
 ### Task 8: Background and Foreground Processes
 - Ran a process in the background
 - Moved a process to the foreground.
 - Ultlized relevant commands
-- [Extended explantion and showcase of this task](./task8.md)
+- [Extended explantion and showcase of this task](Module4/task8.md)
 
 
 ## Module 5: Package Management
