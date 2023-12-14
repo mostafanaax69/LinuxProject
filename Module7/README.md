@@ -50,10 +50,10 @@ Before running the script, make sure you have the following installed:
    - Open your crontab configuration with the following command:
    ```bash
       crontab -e
-   - Add an entry to run the script at your desired frequency. For example, to run the script every day at 2 AM, add the following line:
+  - Add an entry to run the script at your desired frequency. For example, to run the script every day at 2 AM, add the following line:
    ```bash
       0 2 * * * /path/to/your/Syscheck_periodic.sh
-   - Adjust the timing based on your preferences. The format is: minute hour day month day_of_week command.
+  - Adjust the timing based on your preferences. The format is: minute hour day month day_of_week command.
    ```bash
      git clone https://github.com/mostafanaax69/LinuxProject/tree/main/Module7)
      sudo ./Syscheck_periodic.sh &
