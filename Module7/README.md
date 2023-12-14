@@ -30,15 +30,34 @@
 ### Prerequisites
 Before running the script, make sure you have the following installed:
 
-- Prerequisite 1
-- Prerequisite 2
-- ...
+- mail linux package
+  `sudo apt-get install mailutils` 
+- netstat linux package
+  `sudo apt-get install netstat`
+
 
 ### Running the Script
-1. Clone the repository to your local machine:
-
+1. if you want to run the first script which is basiaclly a loop that runs every day at 02:00🕝
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/mostafanaax69/LinuxProject/tree/main/Module7)
+   sudo ./Syscheck_background.sh &
+
+- You can view the logs using the following command :
+  ```bash
+  sudo cat /var/log/system_check.log
+
+2. if you want to register the script as cron job that would run every day at 02:00🕝 ( Or any desired time )
+   - Open your crontab configuration with the following command:
+   ```bash
+      crontab -e
+    - Add an entry to run the script at your desired frequency. For example, to run the script every day at 2 AM, add the following line:
+   ```bash
+      0 2 * * * /path/to/your/Syscheck_periodic.sh
+    - Adjust the timing based on your preferences. The format is: minute hour day month day_of_week command.
+   ```bash
+     git clone https://github.com/mostafanaax69/LinuxProject/tree/main/Module7)
+     sudo ./Syscheck_periodic.sh &
+   
 
 
 
