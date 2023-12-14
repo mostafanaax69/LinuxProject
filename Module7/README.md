@@ -27,5 +27,21 @@
 
 
 
+### Prerequisites
+Before running the script, make sure you have the following installed:
+
+- Prerequisite 1
+- Prerequisite 2
+- ...
+
+### Running the Script
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+
+
+
+
  
 
