@@ -1,4 +1,4 @@
-# Project Name
+# Linux Project
 
 ## Description
 This repository contains the solutions and documentation for Modules 1 to 7, covering various tasks related to Ubuntu setup, basic commands, file operations, user management, permissions, process management, package management, basic shell scripting, and a final exercise for system health check and performance monitoring.
